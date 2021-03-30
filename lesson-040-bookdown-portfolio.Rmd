@@ -48,3 +48,8 @@ Once you have sucefully rendered your bookdown to a full website, hosting can be
 For a complete manual on working with github pages, [see the gh-pages docs](https://docs.github.com/en/github/working-with-github-pages/getting-started-with-github-pages) 
 
 If you want to go for a full continuous integration workflow (which is highly recommended), you can follow these steps in [this blog](https://medium.com/@delucmat/how-to-publish-bookdown-projects-with-github-actions-on-github-pages-6e6aecc7331e)
+
+## Portfolio assessment
+The course grades will be assessed on the basis of an assessment in which you will provide clarifications on any questions that might arise from your portfolio work. This assessment needs to be completed successfully in order to get the credits for this course. 
+
+**Be sure the portfolio is online at the time of the assessment!**   
